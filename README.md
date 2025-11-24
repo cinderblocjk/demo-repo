@@ -6,5 +6,6 @@ anyways, here you will find JACK SHIT that is actually useful to anyone besides,
 
 this is just to test making another branch so if you see this it's just cuz i merged some stuff
 
-ishowsteve
+My dad got carried away by fire ants when I was 9 and I haven't seen him since.
+
 ## but yea that's it bye
