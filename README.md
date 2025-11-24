@@ -4,4 +4,8 @@ this is basically just my repo for trying out demo stuff for now since i am very
 (and honestly i'm not even sure if i really like it so i might just abandon it all of a sudden).
 anyways, here you will find JACK SHIT that is actually useful to anyone besides, occasionally me, so piss off !!!
 
-but yea that's it bye
+this is just to test making another branch so if you see this it's just cuz i merged some stuff
+
+My dad got carried away by fire ants when i was 9 and I haven't seen him since.
+
+## but yea that's it bye
